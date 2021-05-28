@@ -214,7 +214,7 @@ $(function() {
     // 9.2. countdown SETUP
     var setting = {
         counter: {
-            lastDate: "06/05/2021 12:00:00", // target date settings, 'MM/DD/YYYY HH:MM:SS'
+            lastDate: "06/30/2021 12:00:00", // target date settings, 'MM/DD/YYYY HH:MM:SS'
             timeZone: null
         }
     };
